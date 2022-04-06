@@ -185,3 +185,40 @@ p {
 	background: #f6f3d6;
 	cursor: pointer;
 }
+
+/* Complementos */
+input {
+	height: 40px;
+	width: 80%;
+	font-size: 18px;
+	margin-bottom: 10px;
+	border: none;
+	background-color: #fff;
+	background-repeat: no-repeat;
+	background-position: 10px;
+}
+
+form {
+	margin: 15px;
+	padding: 15px;
+}
+
+.email {
+	padding-left: 40px;
+	border: solid #f6f3d6;
+}
+
+.submit {
+	border: solid #f6f3d6;
+	cursor: pointer;
+}
+
+.observacao {
+	border: solid #f6f3d6;
+	height: 150px;
+	width: 416px;
+}
+
+.cor {
+	color: #7d7640;
+}
